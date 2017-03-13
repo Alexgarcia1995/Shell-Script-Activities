@@ -3,9 +3,9 @@ if [ $# -eq 2 ]
 then
 	if [ $1 == $2 ]
 	then
-        	echo "Son iguales"
+        	echo "$1 i $2 son iguales"
 	else
-        	echo "Son distintos"
+        	echo "$1 i $2 son distintos"
 	fi
 else
 echo "Debe tener 2 parametros"
