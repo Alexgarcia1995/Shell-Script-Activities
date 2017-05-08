@@ -29,9 +29,9 @@
 <p>Permite enviar correo siempre y cuando se tenga un cliente de correo instalado en el dispositivo</p>
 
 ### About
-<p>Explicación del uso de la aplicacion y por quien a sido</p>
+<p>Explicación del uso de la aplicacion y por quien ha sido realizada</p>
 
-###Favoritos
+### Favoritos
 <p>Se utiliza Shared preferences para guardar las configuraciones de favoritos</p>
 <p>Esta opcion solo es visible si se esta logeado en la App</p>
 <p>Esta funcion da la opcion al usuario de guardar tanto aquellos equipos pilotos o circuitos favoritos para que puedan ser guardados i visualizados con mas rapidez</p>
@@ -71,8 +71,8 @@
 
 ### Calendario
 <p>Implementada funcionalidad para mostrar(Nombre carrera,Fecha,Hora)[Ergast api]</p>
-
-
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Calendario.PNG?alt=media&token=6a3f5cfa-2815-49f0-af75-deccf4b35c94)
+s
 # RESUMEN DE TRABAJO F1History
 
 <p>(Main) Realizado por :</p>
@@ -93,6 +93,3 @@
 
 
 
-# VISTAS
-
-![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Calendario.PNG?alt=media&token=6a3f5cfa-2815-49f0-af75-deccf4b35c94)
