@@ -78,23 +78,28 @@
 <p>Implementada funcionalidad para mostrar(Nombre carrera,Fecha,Hora)[Ergast api]</p>
 ![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Calendario.PNG?alt=media&token=6a3f5cfa-2815-49f0-af75-deccf4b35c94)
 
+![Imagen no disponible](https://lh3.googleusercontent.com/-aTCvWBY2eS8/WRCraQ0aoYI/AAAAAAAAAAI/MDt3JUWZYTgKQcxS8CYKS5o0W-mcIr2cACL0B/h271/2017-05-08.png)
+
 # RESUMEN DE TRABAJO F1History
 
-<p>(Main) Realizado por :</p>
-<p>(Circuitos) Realizado por :</p>
-<p>(Pilotos) Realizado por :</p>
-<p>(Equipos) Realizado por :</p>
-<p>(Clasificacion) Realizado por :</p>
-<p>(Resultados) Realizado por :</p>
-<p>(Calendario) Realizado por :</p>
-<p>(Login) Realizado por :</p>
-<p>(Settings) Realizado por :</p>
-<p>(Contact) Realizado por :</p>
-<p>(About) Realizado por :</p>
-<p>(Año competicion) Realizado por :</p>
-
-## Conexiones Externas
-<p>Conexiones(Firebase,API) Realizado por :</p>
+<p>(Main) Realizado por : Alejandro Garcia, Jordi Sempere</p>
+<p>(Circuitos) Realizado por :Alejandro Garcia, Jordi Sempere</p>
+<p>(Maps Circuitos) Realizado por :Alejandro Garcia</p>
+<p>(Pilotos) Realizado por :Jordi Sempere</p>
+<p>(Equipos) Realizado por :Jordi Sempere</p>
+<p>(Busqueda imagenes URL y cambios para correcta conexion) Realizado por :Jordi Sempere</p>
+<p>(Clasificacion) Realizado por :Alejandro Garcia, Jordi Sempere</p>
+<p>(Resultados) Realizado por :Alejandro Garcia</p>
+<p>(Calendario) Realizado por :Alejandro Garcia, Jordi Sempere</p>
+<p>(Login) Realizado por :Alejandro Garcia, Jordi Sempere</p>
+<p>(Settings) Realizado por :Alejandro Garcia, Jordi Sempere</p>
+<p>(Shared Preferences Settings (guardar y cargar)) Realizado por :Jordi Sempere</p>
+<p>(Contact) Realizado por :Jordi Sempere</p>
+<p>(About) Realizado por :Alejandro Garcia</p>
+<p>(Año competicion) Realizado por :Alejandro Garcia</p>
+<p>(Favoritos) Realizado por :Alejandro Garcia</p>
+<p>(Shared Preferences Favoritos (guardar y cargar)) Realizado por :Alejandro Garcia</p>
+<p>Conexiones(Firebase,API) Realizado por :Alejandro Garcia, Jordi Sempere</p>
 
 
 
