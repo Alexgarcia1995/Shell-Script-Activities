@@ -1,4 +1,7 @@
 
+
+<title> F1 History ![Imagen no disponible](https://lh3.googleusercontent.com/-aTCvWBY2eS8/WRCraQ0aoYI/AAAAAAAAAAI/MDt3JUWZYTgKQcxS8CYKS5o0W-mcIr2cACL0B/h271/2017-05-08.png)</title>
+
 # FUNCIONALIDAD
 
 
@@ -78,7 +81,7 @@
 <p>Implementada funcionalidad para mostrar(Nombre carrera,Fecha,Hora)[Ergast api]</p>
 ![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Calendario.PNG?alt=media&token=6a3f5cfa-2815-49f0-af75-deccf4b35c94)
 
-![Imagen no disponible](https://lh3.googleusercontent.com/-aTCvWBY2eS8/WRCraQ0aoYI/AAAAAAAAAAI/MDt3JUWZYTgKQcxS8CYKS5o0W-mcIr2cACL0B/h271/2017-05-08.png)
+
 
 # RESUMEN DE TRABAJO F1History
 
