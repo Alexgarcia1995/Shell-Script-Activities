@@ -10,21 +10,21 @@
 <a href="http://www.wikipedia.com">http://www.wikipedia.com</a>
 
 
-##Menu Desplegable
+## Menu Desplegable
 
-###Settings
+### Settings
 <p> Guarda configuracion mediante Shared preferences</p>
 <p>Añadidas funcionalidades(Internacionalizacion,Cambio de color toolbar,Cambio vista del maps )</p>
 
-###Año campeonato
+### Año campeonato
 <p>Esta opcion solo es visible si se esta logeado en la App</p>
 <p>Una vez logueado, permite cambiar el año del campeonato y la aplicacion mostrara toda la informacion del año elegido (Defecto:2017) a excepcion de los Resultados</p>
 
-###Login/Logout
+### Login/Logout
 <p>Login/logout implementado para la plataforma Facebook y Google</p>
 <p>Logearse en la app conlleva las siguientes ventajas(Preferencias): Seleccion año campeonato,Guardar favoritos(Pilotos,Equipos,Circuitos)</p>
 
-###Contact
+### Contact
 <p>Implementado formulario para Enviar correo A la cuenta seleccionada en el codigo</p>
 <p>Permite enviar correo siempre y cuando se tenga un cliente de correo instalado en el dispositivo</p>
 
@@ -73,7 +73,7 @@
 <p>Implementada funcionalidad para mostrar(Nombre carrera,Fecha,Hora)[Ergast api]</p>
 
 
-#RESUMEN DE TRABAJO F1History
+# RESUMEN DE TRABAJO F1History
 
 <p>(Main) Realizado por :</p>
 <p>(Circuitos) Realizado por :</p>
@@ -88,11 +88,11 @@
 <p>(About) Realizado por :</p>
 <p>(Año competicion) Realizado por :</p>
 
-##Conexiones Externas
+## Conexiones Externas
 <p>Conexiones(Firebase,API) Realizado por :</p>
 
 
 
-#VISTAS
+# VISTAS
 
-![Imagen no disponible](https://drive.google.com/open?id=0B5haNU9T5ogQS0RYQlNPdkF3UmM)
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Calendario.PNG?alt=media&token=6a3f5cfa-2815-49f0-af75-deccf4b35c94)
