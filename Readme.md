@@ -1,6 +1,6 @@
 
-
-<title> # F1 History ![Imagen no disponible](https://lh3.googleusercontent.com/-aTCvWBY2eS8/WRCraQ0aoYI/AAAAAAAAAAI/MDt3JUWZYTgKQcxS8CYKS5o0W-mcIr2cACL0B/h271/2017-05-08.png)</title>
+# F1 History
+<title> ![Imagen no disponible](https://lh3.googleusercontent.com/-aTCvWBY2eS8/WRCraQ0aoYI/AAAAAAAAAAI/MDt3JUWZYTgKQcxS8CYKS5o0W-mcIr2cACL0B/h271/2017-05-08.png)</title>
 
 # FUNCIONALIDAD
 
