@@ -36,43 +36,48 @@
 <p>Esta opcion solo es visible si se esta logeado en la App</p>
 <p>Esta funcion da la opcion al usuario de guardar tanto aquellos equipos pilotos o circuitos favoritos para que puedan ser guardados i visualizados con mas rapidez</p>
 
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Menu.PNG?alt=media&token=a383c708-88e7-4769-a9db-fc34d9b0f7d1)
+
 ## Funcionalidad Vistas
 
 ### Main
 <p>Implementada cuenta atras(Proxima carrera)"Clase fecha"</p>
 <p>Acceso mediante botones a las siguientes vistas :</p>
 <p>Circuitos,Resultados,Clasificacion,Pilotos,Equipos,Calendario</p>
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Principal.PNG?alt=media&token=b16159a0-3f5f-4d44-98b7-f89178e01f39)
 
 ### Resultados
 <p>Implementada funcionalidad para mostrar de la ultima carrera realizada(posicion,nombre,puntuacion)[Ergast api]</p>
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Resultados.PNG?alt=media&token=3bfe60ea-aadc-4fc0-8a76-2c2a6afdefa3)
 
 ### Circuitos
 <p>Cuenta con un gridView que muestra foto si existe i el identificador</p>
 <p>Cuenta con otra vista detalles que implementa lo siguiente :</p>
 <p>Implementada funcionalidad para mostrar(Maps del circuito con marquer incluido,Informacion basica del circuito,Url)[Ergast api]</p>
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Circuitos.PNG?alt=media&token=ce52aedc-c0aa-42e6-9b84-dd7276286ee2)
 
 ### Clasificacion
 <p>Implementada funcionalidad para mostrar(Posicion,Nombre(piloto o equipo),Puntos,Victorias)[Ergast api]</p>
-
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Clasificacion.PNG?alt=media&token=915c0728-f3ef-4177-9a9c-6605d08d29bb)
 
 ### Pilotos
 <p>Cuenta con un gridView que muestra foto si existe y el identificador</p>
 <p>Cuenta con otra vista detalles que implementa lo siguiente :</p>
 <p>Implementada funcionalidad para mostrar(Posicion,Nombre(piloto o equipo),Puntos,Victorias)[Ergast api]</p>
-
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Pilotos.PNG?alt=media&token=64adb119-7157-42ed-ae91-1b5f3bd92b2d)
 
 
 ### Equipos
 <p>Cuenta con un gridView que muestra foto si existe y el identificador</p>
 <p>Cuenta con otra vista detalles que implementa lo siguiente :</p>
 <p>Implementada funcionalidad para mostrar(Nombre equipo,Pais origen,informacion basica y url)[Ergast api]</p>
-
+![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Equipos.PNG?alt=media&token=ac06d530-85f1-4266-93d8-5821915f0c98)
 
 
 ### Calendario
 <p>Implementada funcionalidad para mostrar(Nombre carrera,Fecha,Hora)[Ergast api]</p>
 ![Imagen no disponible](https://firebasestorage.googleapis.com/v0/b/daw-9ec9d.appspot.com/o/Calendario.PNG?alt=media&token=6a3f5cfa-2815-49f0-af75-deccf4b35c94)
-s
+
 # RESUMEN DE TRABAJO F1History
 
 <p>(Main) Realizado por :</p>
